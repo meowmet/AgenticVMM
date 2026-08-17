@@ -12,7 +12,6 @@ AgenticVMM is a hardware-accelerated memory management layer for autonomous LLM 
 
 ## 🎬 Project Demo & Presentation
 
-Click the image below to watch the 2-minute technical breakdown and live benchmark of AgenticVMM:
 
 [![AgenticVMM Demo](https://img.youtube.com/vi/JSr-Zq3bAKY/maxresdefault.jpg)](https://youtu.be/JSr-Zq3bAKY)
 
